@@ -23,6 +23,7 @@ export default function RootLayout({
             <div className="line line-2"></div>
             <div className="line line-3"></div>
             <div className="line line-4"></div>
+            <div className="line line-5"></div>
           </div>
         </div>
         {children}

@@ -56,7 +56,7 @@ body {
   }
 
   .line-2 {
-    left: calc(25% - 10px);
+    left: calc(25% - 9.5px);
   }
 
   .line-3 {
@@ -64,6 +64,9 @@ body {
   }
 
   .line-4 {
-    left: calc(75% - 6px);
+    left: calc(75% - 6.5px);
+  }
+  .line-5 {
+    left: calc(100% - 4.5px);
   }
 }
